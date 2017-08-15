@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426970409617",
+    "project_id": "firebase-shop24h"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426970409617:android:e17ba24fcc18c163",
+        "android_client_info": {
+          "package_name": "com.example.trungnguyenhau.shoponline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426970409617-gi56mc0od7ca6fvcaqi6v10mmfsme093.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "426970409617-jj07f03ipsk9j5g45su5bgjupievkh22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trungnguyenhau.shoponline",
+            "certificate_hash": "ce2d6384a6ed1cd496709ee946e992f7ecda5e0c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG71UGpe8DlsaE4VRpD1A4WmMaF9Js-SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

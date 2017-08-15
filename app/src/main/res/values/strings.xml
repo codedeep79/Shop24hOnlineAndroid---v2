@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Shop 24h</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="ic_sport_title">Giày ADIDAS SPRINGBLADE DRIVE 2.0 độc lạ chất !!</string>
+    <string name="ic_sport_description">(Hàng order, size 36 ~ 46 ) Bạn mệt mỏi khi phải đi bộ đi học đi làm hàng giờ? Bạn không có động lực khi phải chạy bộ tập luyện mỗi ngày ?
+        Mọi thứ sẽ trở nên thú vị hơn khi bạn mang Adidas Springblade Drive 2.0 đấy!</string>
+
+    <string name="ic_phone_title">Điện thoại iPhone 7 Plus 32GB</string>
+    <string name="ic_phone_description">Với thiết kế không quá nhiều thay đổi, vẫn bảo tồn vẻ đẹp truyền thống từ thời
+        iPhone 6 Plus,  iPhone 7 Plus 32GB được trang bị nhiều nâng cấp đáng giá như camera kép, đạt chuẩn chống nước chống
+        bụi cùng cấu hình cực mạnh.</string>
+
+    <string name="ic_laptop_title">HP Pavilion 14-AL010TU</string>
+    <string name="ic_laptop_description">Laptop HP Pavilion 14 AL010TU X3B85PA mang màu vàng sang trọng, quý phái tôn lên
+        đẳng cấp người dùng. Màn hình kích thước 14 inches, độ phân giải 1366 x 768 Pixels cho chất lượng hiển thị sắc nét,
+        màu sắc hài hòa. Cấu hình mạnh mẽ với bộ vi xử lý thế hệ mới Intel Core i5 SkyLake, RAM 4GB, laptop HP Pavilion 14
+        AL010TU X3B85PA chạy đa nhiệm mượt mà, phục vụ tốt nhu cầu làm việc, học tập và giải trí.</string>
+
+    <string name="home">Home</string>
+    <string name="login">Đăng Nhập / Đăng Ký</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="search">Tìm kiếm sản phẩm</string>
+    <string name="khuyenmai">Chương trình khuyến mãi</string>
+    <string name="noibat">Nổi bật</string>
+    <string name="dientu">Điện tử</string>
+    <string name="nhacuavadoisong">Nhà cửa và đời sốngi</string>
+
+    <string name="mevabe">Mẹ và bé</string>
+    <string name="lamdep">Làm đẹp</string>
+    <string name="thoitrang">Thời trang</string>
+    <string name="thethaovadulich">Thể thao và du lịch</string>
+    <string name="thuonghieu">Thương hiệu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">262517450905725</string>
+    <string name="fb_login_protocol_scheme">fb262517450905725</string>
+    <string name="server_client_id">
+426970409617-jj07f03ipsk9j5g45su5bgjupievkh22.apps.googleusercontent.com</string>
+
+    <string-array name="nhacuavadoisong">
+        <item> Bộ phòng ngủ hiện đại đẹp EPN-158</item>
+        <item> Bộ phòng ngủ hiện đại cho nhà chung cư EPN-157</item>
+        <item> Bộ phòng ngủ gỗ công nghiệp cao cấp EPN-156</item>
+        <item> Mẫu bộ phòng ngủ hiện đại EPN-155</item>
+        <item> Bộ phòng ngủ gỗ công nghiệp đẹp EPN-154</item>
+        <item> Bộ phòng ngủ gỗ công nghiệp đẹp EPN-153</item>
+        <item> Bộ phòng ngủ gỗ công nghiệp giá rẻ EPN-152</item>
+        <item> Bộ phòng ngủ cho căn hộ chung cư EPN-151</item>
+        <item> Giường ngủ gỗ hiện đại giá rẻ EPN-320</item>
+        <item> Giường ngủ gỗ hiện đại giá rẻ EPN-319</item>
+    </string-array>
+    <string-array name="dongia_noibat">
+        <item>5000000</item>
+        <item>6000000</item>
+        <item>4000000</item>
+        <item>3500000</item>
+        <item>5000000</item>
+        <item>6000000</item>
+        <item>4300000</item>
+        <item>6400000</item>
+        <item>2300000</item>
+        <item>5100000</item>
+    </string-array>
+
+</resources>
